@@ -1,0 +1,7 @@
+backports.ssl-match-hostname==3.5.0.1
+click==6.2
+requests==2.9.1
+six==1.10.0
+spark-python==0.0.6
+websocket-client==0.35.0
+wheel==0.24.0
