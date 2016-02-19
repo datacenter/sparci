@@ -2,11 +2,14 @@
 
 A Cisco Spark bot that automatically sends ACI Fabric audit logs to a Spark room
 
+[![asciicast](https://asciinema.org/a/36849.png)](https://asciinema.org/a/36849)
+
 ## Installation
 
 - Clone this repository
 - Get your Spark API Key
 > You can get your API key from developer.ciscospark.com
+
 - (Optional) export your API key 
 
         export SPARCI_SPARK_KEY=<your-key>
