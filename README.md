@@ -7,6 +7,9 @@ A Cisco Spark bot that automatically sends ACI Fabric audit logs to a Spark room
 ## Installation
 
 - Clone this repository
+- Install Python requirements
+        
+        pip install -r requirements.txt
 - Get your Spark API Key
 > You can get your API key from developer.ciscospark.com
 
